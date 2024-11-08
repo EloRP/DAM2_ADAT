@@ -1,0 +1,26 @@
+Actores
+--------------
+id: 50
+Nome: Elisabeth Shue
+Sexo: muller
+DataNacemento: 06/10/1963
+--------------
+id: 139
+Nome: Jhonny Depp
+Sexo: home
+DataNacemento: 09/06/1963
+--------------
+id: 100
+Nome: Harrison Ford
+Sexo: home
+DataNacemento: 13/07/1943
+--------------
+id: 64
+Nome: Penelope Cruz
+Sexo: muller
+DataNacemento: 28/04/1974
+--------------
+id: 25
+Nome: Michael Keaton
+Sexo: home
+DataNacemento: 5/09/1951

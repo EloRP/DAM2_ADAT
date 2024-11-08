@@ -1,0 +1,9 @@
+<!ELEMENT Hoteles (Hotel)>
+<!ELEMENT Hotel (Nombre,Telefono,Direccion)>
+<!ATTLIST Hotel id NMTOKEN #REQUIRED>
+<!ELEMENT Nombre (#PCDATA)>
+<!ELEMENT Telefono (#PCDATA)>
+<!ELEMENT Direccion (Calle,Numero,CodigoPostal)>
+<!ELEMENT Calle (#PCDATA)>
+<!ELEMENT Numero (#PCDATA)>
+<!ELEMENT CodigoPostal (#PCDATA)>

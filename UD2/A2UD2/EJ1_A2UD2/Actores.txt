@@ -1,0 +1,39 @@
+Información de actores:
+========================
+Actor 1
+***********
+id: 50
+Nome: Elisabeth Shue
+Sexo: muller
+DataNacemento: 06/10/1963
+-----------------
+Actor 2
+***********
+id: 139
+Nome: Jhonny Depp
+Sexo: home
+DataNacemento: 09/06/1963
+-----------------
+Actor 3
+***********
+id: 100
+Nome: Harrison Ford
+Sexo: home
+DataNacemento: 13/07/1943
+-----------------
+Actor 4
+***********
+id: 64
+Nome: Viggo Mortensen
+Sexo: home
+DataNacemento: 13/07/1956
+-----------------
+Actor 5
+***********
+id: 69
+Nome: Keanu Reeves
+Sexo: home
+DataNacemento: 6/12/1969
+-----------------
+
+Total de actores: 5

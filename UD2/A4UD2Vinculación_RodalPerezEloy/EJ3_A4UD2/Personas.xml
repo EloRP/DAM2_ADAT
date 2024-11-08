@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<personas>
+    <Persona xsi:type="estudiante" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <nombre>Pepe</nombre>
+        <Edad>20</Edad>
+        <Informacion_Contacto>
+            <Direccion>
+                <Calle>República Argentina</Calle>
+                <Numero>2</Numero>
+                <Localidad>Marín</Localidad>
+                <Provincia>Pontevedra</Provincia>
+            </Direccion>
+            <Telefonos>958345285 978325215 923344295</Telefonos>
+        </Informacion_Contacto>
+        <Universidad>Universidad Complutense de Madrid</Universidad>
+        <Carrera>Ingeniería Forestal</Carrera>
+    </Persona>
+    <Persona xsi:type="trabajador" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <nombre>Armando Barreda</nombre>
+        <Edad>45</Edad>
+        <Informacion_Contacto>
+            <Direccion>
+                <Calle>República Argentina</Calle>
+                <Numero>2</Numero>
+                <Localidad>Marín</Localidad>
+                <Provincia>Pontevedra</Provincia>
+            </Direccion>
+            <Telefonos>958345285 978325215 923344295</Telefonos>
+        </Informacion_Contacto>
+        <Empresa>IES Chan do Monte</Empresa>
+        <Puesto>Profesor</Puesto>
+        <Salario>4000</Salario>
+    </Persona>
+    <Persona xsi:type="trabajador" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+        <nombre>José José</nombre>
+        <Edad>30</Edad>
+        <Informacion_Contacto>
+            <Direccion>
+                <Calle>República Argentina</Calle>
+                <Numero>2</Numero>
+                <Localidad>Marín</Localidad>
+                <Provincia>Pontevedra</Provincia>
+            </Direccion>
+            <Telefonos>958345285 978325215 923344295</Telefonos>
+        </Informacion_Contacto>
+        <Empresa>Empresa S.A</Empresa>
+        <Puesto>Oficinista</Puesto>
+        <Salario>2000</Salario>
+    </Persona>
+</personas>

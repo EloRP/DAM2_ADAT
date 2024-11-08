@@ -1,0 +1,6 @@
+<!ELEMENT Empleados (Empleado+)>
+<!ELEMENT Empleado (Nombre,Cargo,Direccion,Aumento)>
+<!ELEMENT Nombre (#PCDATA)>
+<!ELEMENT Cargo (#PCDATA)>
+<!ELEMENT Direccion (#PCDATA)>
+<!ELEMENT Aumento (#PCDATA)>

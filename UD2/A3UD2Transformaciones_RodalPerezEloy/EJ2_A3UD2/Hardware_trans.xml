@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hardware>
+    <Maquina fabr="Dell"/>
+    <Nome> (PC Sobremesa)</Nome>
+    <Capacidade tecnoloxia="">0</Capacidade>
+    <Maquina fabr="Fujitsu-Siemens"/>
+    <Nome> (Torre)</Nome>
+    <Capacidade tecnoloxia="">0</Capacidade>
+    <!--Sin tarxeta de rede-->
+    <Maquina fabr=""/>
+    <Nome> (Semitorre)</Nome>
+    <Capacidade tecnoloxia="">0</Capacidade>
+    <!--Monocromo, dúplex, red-->
+    <Maquina fabr="OKI"/>
+    <Nome> (Impresora Láser)</Nome>
+    <Capacidade tecnoloxia="">0</Capacidade>
+</Hardware>

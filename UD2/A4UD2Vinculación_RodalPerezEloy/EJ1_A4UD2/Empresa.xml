@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<empresa cif="492956N">
+    <nombre>Empresa S.A</nombre>
+    <empleados>
+        <empleado>
+            <dni>53864409L</dni>
+            <nombre>Eloy</nombre>
+            <edad>29</edad>
+        </empleado>
+        <empleado>
+            <dni>4835894N</dni>
+            <nombre>Juan</nombre>
+            <edad>19</edad>
+        </empleado>
+    </empleados>
+</empresa>

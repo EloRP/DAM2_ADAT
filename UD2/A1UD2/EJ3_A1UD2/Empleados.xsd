@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Empleados">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Empleado" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Nombre" type="xs:string" />
+              <xs:element name="Cargo" type="xs:string" />
+              <xs:element name="Direccion" type="xs:string" />
+              <xs:element name="Aumento" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
