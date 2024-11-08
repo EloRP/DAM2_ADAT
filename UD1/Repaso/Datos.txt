@@ -1,0 +1,4 @@
+ cadena: Cadena
+el caracter tecleado: C
+ entero: 1
+ numero real double: 23.45
