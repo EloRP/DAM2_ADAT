@@ -1,3 +1,5 @@
+package UtilesUD1;
+
 
 /*problema en el ObjectOutputStream es que al instanciarlo, escribe unos
 bytes de cabecera en el fichero, antes incluso de que escribamos nada. Como

@@ -1,1 +1,30 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<CadenaHotelera CIF="AB237237287" nombre="SOL CONFORT">
+    <Hotel id="1">
+        <Nombre>Sancho</Nombre>
+        <Telefonos>111111111 123456789 874462125</Telefonos>
+        <Direccion>
+            <Calle>Concepción Arenal</Calle>
+            <Numero>2</Numero>
+            <CodigoPostal>36999</CodigoPostal>
+        </Direccion>
+    </Hotel>
+    <Hotel id="2">
+        <Nombre>Quijote</Nombre>
+        <Telefonos>111111111 123456789 874462125</Telefonos>
+        <Direccion>
+            <Calle>Echegaray</Calle>
+            <Numero>5</Numero>
+            <CodigoPostal>36999</CodigoPostal>
+        </Direccion>
+    </Hotel>
+    <Hotel id="3">
+        <Nombre>Dulcinea</Nombre>
+        <Telefonos>111111111 123456789 874462125</Telefonos>
+        <Direccion>
+            <Calle>Jaime Janer</Calle>
+            <Numero>7</Numero>
+            <CodigoPostal>36999</CodigoPostal>
+        </Direccion>
+    </Hotel>
+</CadenaHotelera>

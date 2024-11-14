@@ -1,0 +1,959 @@
+{
+  "facultad" : "Informática",
+  "campus" : "Escuela Politécnica de Valencia ",
+  "secciones" : [ {
+    "nombre" : "Programación",
+    "libros" : [ {
+      "isbn" : "666-1234567890",
+      "titulo" : "Introducción a la Programación en Java",
+      "numero_de_paginas" : 300,
+      "autores" : [ "John Smith", "Maria Pérez", "Carlos Rodríguez" ],
+      "fechaEdicion" : "12-12-2012",
+      "editorial" : "Paraninfo",
+      "precio" : 29.0,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A001"
+    }, {
+      "isbn" : "988-1111111111",
+      "titulo" : "Aprende Java en 21 días",
+      "numero_de_paginas" : 400,
+      "autores" : [ "Luis Martínez", "John Smith", "Maria Pérez" ],
+      "fechaEdicion" : "02-10-2015",
+      "editorial" : "Anaya Multimedias",
+      "precio" : 39.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      } ],
+      "id" : "A002"
+    }, {
+      "isbn" : "988-8822222222",
+      "titulo" : "Python para Principiantes",
+      "numero_de_paginas" : 250,
+      "autores" : [ "María López", "Carlos Rodríguez" ],
+      "fechaEdicion" : "02-09-2015",
+      "editorial" : "Coders Press",
+      "precio" : 24.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 3,
+        "estado" : "Prestado"
+      } ],
+      "id" : "A003"
+    }, {
+      "isbn" : "988-3633333333",
+      "titulo" : "Desarrollo de Aplicaciones Web con Java",
+      "numero_de_paginas" : 350,
+      "autores" : [ "John Smith", "Luis Martínez" ],
+      "fechaEdicion" : "05-03-2022",
+      "editorial" : "Paraninfo",
+      "precio" : 32.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A004"
+    }, {
+      "isbn" : "968-2224444444",
+      "titulo" : "Programación Avanzada en Java",
+      "numero_de_paginas" : 280,
+      "autores" : [ "Carlos Rodríguez", "John Smith", "Luis Martínez" ],
+      "fechaEdicion" : "04-10-2022",
+      "editorial" : "Anaya Multimedias",
+      "precio" : 29.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 4,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 5,
+        "estado" : "Prestado"
+      } ],
+      "id" : "A005"
+    }, {
+      "isbn" : "978-84-368-0000-0",
+      "titulo" : "Java 11",
+      "numero_de_paginas" : 500,
+      "autores" : [ "Pepe Pérez", "Juan Juanes", "Luis López" ],
+      "fechaEdicion" : "01-01-2021",
+      "editorial" : "Anaya",
+      "precio" : 50.0,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A309"
+    }, {
+      "isbn" : "978-84-368-0000-0",
+      "titulo" : "Java 11",
+      "numero_de_paginas" : 500,
+      "autores" : [ "Pepe Pérez", "Juan Juanes", "Luis López" ],
+      "fechaEdicion" : "01-01-2021",
+      "editorial" : "Anaya",
+      "precio" : 50.0,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A309"
+    } ]
+  }, {
+    "nombre" : "Redes",
+    "libros" : [ {
+      "isbn" : "998-5588555555",
+      "titulo" : "Comunicación en Redes Empresariales",
+      "numero_de_paginas" : 380,
+      "autores" : [ "Luis Martínez", "Maria Pérez" ],
+      "fechaEdicion" : "04-10-2022",
+      "editorial" : "Paraninfo",
+      "precio" : 34.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 4,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A101"
+    }, {
+      "isbn" : "878-6546666666",
+      "titulo" : "Seguridad en Redes Corporativas",
+      "numero_de_paginas" : 420,
+      "autores" : [ "John Smith", "Maria Pérez", "Carlos Rodríguez" ],
+      "fechaEdicion" : "09-09-2021",
+      "editorial" : "Rama",
+      "precio" : 39.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 4,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 5,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A102"
+    }, {
+      "isbn" : "878-8767777777",
+      "titulo" : "Introducción a las Redes de Comunicación",
+      "numero_de_paginas" : 320,
+      "autores" : [ "María López", "Carlos Rodríguez" ],
+      "fechaEdicion" : "14-04-2020",
+      "editorial" : "Anaya Multimedia",
+      "precio" : 29.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 3,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 4,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A103"
+    }, {
+      "isbn" : "978-8888888323",
+      "titulo" : "Redes Avanzadas y Protocolos de Comunicación",
+      "numero_de_paginas" : 350,
+      "autores" : [ "John Smith", "Luis Martínez", "Carlos Rodríguez" ],
+      "fechaEdicion" : "21-12-2022",
+      "editorial" : "Marcombo",
+      "precio" : 32.0,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A104"
+    }, {
+      "isbn" : "968-9999999543",
+      "titulo" : "Comunicación de Datos en Redes Empresariales",
+      "numero_de_paginas" : 290,
+      "autores" : [ "Carlos Rodríguez", "John Smith", "Luis Martínez" ],
+      "fechaEdicion" : "04-12-2021",
+      "editorial" : "Paraninfo",
+      "precio" : 25.5,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 4,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A105"
+    }, {
+      "isbn" : "778-1010101032",
+      "titulo" : "Seguridad en Redes Empresariales",
+      "numero_de_paginas" : 400,
+      "autores" : [ "Luis Martínez", "Maria Pérez" ],
+      "fechaEdicion" : "12-03-2020",
+      "editorial" : "Anaya Multimedia",
+      "precio" : 34.5,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 4,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A106"
+    }, {
+      "isbn" : "343-1111114545",
+      "titulo" : "Introducción a la Comunicación en Redes",
+      "numero_de_paginas" : 350,
+      "autores" : [ "María López", "Carlos Rodríguez" ],
+      "fechaEdicion" : "15-07-2021",
+      "editorial" : "Marcombo",
+      "precio" : 32.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 4,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A107"
+    } ]
+  }, {
+    "nombre" : "Inteligencia Artificial",
+    "libros" : [ {
+      "isbn" : "928-5555553212",
+      "titulo" : "Introducción a la Inteligencia Artificial",
+      "numero_de_paginas" : 380,
+      "autores" : [ "David Lee", "María Pérez", "Luis Martínez" ],
+      "fechaEdicion" : "22-01-2021",
+      "editorial" : "Paraninfo",
+      "precio" : 34.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A201"
+    }, {
+      "isbn" : "958-1266666666",
+      "titulo" : "Aprendizaje Automático Avanzado",
+      "numero_de_paginas" : 420,
+      "autores" : [ "John Smith", "Carlos Rodríguez" ],
+      "fechaEdicion" : "05-10-2021",
+      "editorial" : "Rama",
+      "precio" : 39.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 4,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 5,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A202"
+    }, {
+      "isbn" : "546-3477777777",
+      "titulo" : "Inteligencia Artificial en Aplicaciones Prácticas",
+      "numero_de_paginas" : 320,
+      "autores" : [ "Laura García", "Carlos Rodríguez" ],
+      "fechaEdicion" : "28-10-2021",
+      "editorial" : "Anaya Multimedia",
+      "precio" : 29.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 3,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 4,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A203"
+    }, {
+      "isbn" : "954-3452888888",
+      "titulo" : "Redes Neuronales y Aprendizaje Profundo",
+      "numero_de_paginas" : 350,
+      "autores" : [ "Luis Martínez", "Carlos Rodríguez" ],
+      "fechaEdicion" : "18-04-2022",
+      "editorial" : "Marcombo",
+      "precio" : 32.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A204"
+    }, {
+      "isbn" : "918-999999543",
+      "titulo" : "Aprendizaje Profundo en la Práctica",
+      "numero_de_paginas" : 290,
+      "autores" : [ "María Pérez", "Luis Martínez" ],
+      "fechaEdicion" : "26-02-2022",
+      "editorial" : "Paraninfo",
+      "precio" : 29.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 4,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A205"
+    }, {
+      "isbn" : "348-1010101324",
+      "titulo" : "Aplicaciones Prácticas de la Inteligencia Artificial",
+      "numero_de_paginas" : 400,
+      "autores" : [ "David Lee", "Laura García" ],
+      "fechaEdicion" : "23-06-2019",
+      "editorial" : "Rama",
+      "precio" : 32.5,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 4,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A206"
+    } ]
+  }, {
+    "nombre" : "Base de datos",
+    "libros" : [ {
+      "isbn" : "548-5555555532",
+      "titulo" : "Introducción a Bases de Datos Relacionales",
+      "numero_de_paginas" : 380,
+      "autores" : [ "Maria Pérez", "Luis Martínez" ],
+      "fechaEdicion" : "12-12-2022",
+      "editorial" : "Paraninfo",
+      "precio" : 34.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A301"
+    }, {
+      "isbn" : "548-9866666676",
+      "titulo" : "Diseño de Bases de Datos Avanzado",
+      "numero_de_paginas" : 420,
+      "autores" : [ "John Smith", "Carlos Rodríguez" ],
+      "fechaEdicion" : "04-10-2020",
+      "editorial" : "Rama",
+      "precio" : 39.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 4,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 5,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A302"
+    }, {
+      "isbn" : "998-3277777786",
+      "titulo" : "Base de Datos en la Práctica",
+      "numero_de_paginas" : 320,
+      "autores" : [ "María López", "Carlos Rodríguez" ],
+      "fechaEdicion" : "12-07-2019",
+      "editorial" : "Anaya Multimedia",
+      "precio" : 29.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 3,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 4,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A303"
+    }, {
+      "isbn" : "548-5468888868",
+      "titulo" : "Administración de Bases de Datos Empresariales",
+      "numero_de_paginas" : 350,
+      "autores" : [ "Luis Martínez", "Carlos Rodríguez" ],
+      "fechaEdicion" : "02-05-2022",
+      "editorial" : "Marcombo",
+      "precio" : 32.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A304"
+    }, {
+      "isbn" : "978-9999999999",
+      "titulo" : "Modelado de Datos y SQL",
+      "numero_de_paginas" : 290,
+      "autores" : [ "María Pérez", "Luis Martínez" ],
+      "fechaEdicion" : "17-10-2022",
+      "editorial" : "Paraninfo",
+      "precio" : 29.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 4,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A305"
+    }, {
+      "isbn" : "978-1010101010",
+      "titulo" : "Tecnologías NoSQL",
+      "numero_de_paginas" : 400,
+      "autores" : [ "David Lee", "Laura García" ],
+      "fechaEdicion" : "21-10-2018",
+      "editorial" : "Rama",
+      "precio" : 34.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 4,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A306"
+    }, {
+      "isbn" : "978-1212121212",
+      "titulo" : "Bases de Datos Distribuidas",
+      "numero_de_paginas" : 380,
+      "autores" : [ "Laura García", "Carlos Rodríguez", "John Smith" ],
+      "fechaEdicion" : "21-12-2022",
+      "editorial" : "Marcombo",
+      "precio" : 39.25,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 3,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 4,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 5,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A307"
+    }, {
+      "isbn" : "978-1313131313",
+      "titulo" : "SQL Avanzado y Optimización de Bases de Datos",
+      "numero_de_paginas" : 420,
+      "autores" : [ "John Smith", "Carlos Rodríguez" ],
+      "fechaEdicion" : "15-05-2022",
+      "editorial" : "Paraninfo",
+      "precio" : 45.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 4,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 5,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 6,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A308"
+    } ]
+  }, {
+    "nombre" : "Sistemas Operativos",
+    "libros" : [ {
+      "isbn" : "978-5555555555",
+      "titulo" : "Sistemas Operativos Modernos",
+      "numero_de_paginas" : 380,
+      "autores" : [ "David Lee", "Maria Pérez" ],
+      "fechaEdicion" : "22-02-2021",
+      "editorial" : "Paraninfo",
+      "precio" : 34.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A401"
+    }, {
+      "isbn" : "978-6666666666",
+      "titulo" : "Administración de Sistemas Unix",
+      "numero_de_paginas" : 420,
+      "autores" : [ "John Smith", "Carlos Rodríguez" ],
+      "fechaEdicion" : "14-06-2022",
+      "editorial" : "Rama",
+      "precio" : 39.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 4,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 5,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A402"
+    }, {
+      "isbn" : "978-7777777777",
+      "titulo" : "Gestión de Recursos en Sistemas Operativos",
+      "numero_de_paginas" : 320,
+      "autores" : [ "María López", "Carlos Rodríguez" ],
+      "fechaEdicion" : "11-10-2021",
+      "editorial" : "Anaya Multimedia",
+      "precio" : 29.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 3,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 4,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A403"
+    }, {
+      "isbn" : "978-8888888888",
+      "titulo" : "Sistemas Operativos en la Nube",
+      "numero_de_paginas" : 350,
+      "autores" : [ "Luis Martínez", "Carlos Rodríguez" ],
+      "fechaEdicion" : "04-09-2022",
+      "editorial" : "Marcombo",
+      "precio" : 32.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A404"
+    }, {
+      "isbn" : "777-9977599999",
+      "titulo" : "Introducción a Sistemas Operativos",
+      "numero_de_paginas" : 290,
+      "autores" : [ "María Pérez", "Luis Martínez" ],
+      "fechaEdicion" : "22-05-2022",
+      "editorial" : "Paraninfo",
+      "precio" : 29.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 4,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A405"
+    } ]
+  }, {
+    "nombre" : "Ciberseguridad",
+    "libros" : [ {
+      "isbn" : "878-1313131313",
+      "titulo" : "Ciberseguridad y Protección de Datos",
+      "numero_de_paginas" : 420,
+      "autores" : [ "John Smith", "Carlos Rodríguez" ],
+      "fechaEdicion" : "06-11-2021",
+      "editorial" : "Rama",
+      "precio" : 45.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 4,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 5,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 6,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A501"
+    }, {
+      "isbn" : "978-1414141414",
+      "titulo" : "Seguridad en Redes Empresariales",
+      "numero_de_paginas" : 380,
+      "autores" : [ "David Lee", "Maria Pérez" ],
+      "fechaEdicion" : "04-10-2022",
+      "editorial" : "Paraninfo",
+      "precio" : 39.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A502"
+    }, {
+      "isbn" : "967-1515151515",
+      "titulo" : "Hacking Ético y Seguridad Web",
+      "numero_de_paginas" : 320,
+      "autores" : [ "María López", "Luis Martínez" ],
+      "fechaEdicion" : "12-02-2017",
+      "editorial" : "Anaya Multimedia",
+      "precio" : 34.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 3,
+        "estado" : "Prestado"
+      } ],
+      "id" : "A503"
+    }, {
+      "isbn" : "923-1616161616",
+      "titulo" : "Ciberseguridad en Entornos Críticos",
+      "numero_de_paginas" : 350,
+      "autores" : [ "Sara Rodríguez", "Ramón Bermúdez" ],
+      "fechaEdicion" : "09-11-2017",
+      "editorial" : "Marcombo",
+      "precio" : 32.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A504"
+    }, {
+      "isbn" : "934-1717171717",
+      "titulo" : "Ciberseguridad en la Empresa",
+      "numero_de_paginas" : 290,
+      "autores" : [ "María Sánchez", "Luis Martínez" ],
+      "fechaEdicion" : "24-04-2022",
+      "editorial" : "Rama",
+      "precio" : 29.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 4,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A505"
+    } ]
+  }, {
+    "nombre" : "Robótica",
+    "libros" : [ {
+      "isbn" : "938-3232323232",
+      "titulo" : "Introducción a la Robótica",
+      "numero_de_paginas" : 320,
+      "autores" : [ "Luis Martínez", "Carlos Rodríguez" ],
+      "fechaEdicion" : "07-12-2020",
+      "editorial" : "Rama",
+      "precio" : 29.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A1001"
+    }, {
+      "isbn" : "978-3333333333",
+      "titulo" : "Robótica Avanzada",
+      "numero_de_paginas" : 380,
+      "autores" : [ "David Lee", "Maria Pérez" ],
+      "fechaEdicion" : "07-12-2020",
+      "editorial" : "Paraninfo",
+      "precio" : 34.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A1002"
+    }, {
+      "isbn" : "978-3434343434",
+      "titulo" : "Automatización Industrial con Robots",
+      "numero_de_paginas" : 310,
+      "autores" : [ "Laura García", "Carlos Rodríguez" ],
+      "fechaEdicion" : "08-12-2019",
+      "editorial" : "Rama",
+      "precio" : 31.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A1003"
+    }, {
+      "isbn" : "978-3535353535",
+      "titulo" : "Visión por Computadora en Robótica",
+      "numero_de_paginas" : 360,
+      "autores" : [ "Maria Pérez", "Luis Martínez" ],
+      "fechaEdicion" : "16-08-2021",
+      "editorial" : "Paraninfo",
+      "precio" : 32.75,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A1004"
+    }, {
+      "isbn" : "978-3636363636",
+      "titulo" : "Robótica en la Industria",
+      "numero_de_paginas" : 300,
+      "autores" : [ "Carlos Rodríguez", "David Lee" ],
+      "fechaEdicion" : "17-12-2021",
+      "editorial" : "Rama",
+      "precio" : 29.55,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A1005"
+    }, {
+      "isbn" : "978-3737373737",
+      "titulo" : "Control de Robots Industriales",
+      "numero_de_paginas" : 340,
+      "autores" : [ "María López", "Laura García" ],
+      "fechaEdicion" : "07-12-2022",
+      "editorial" : "Paraninfo",
+      "precio" : 31.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      } ],
+      "id" : "A1006"
+    }, {
+      "isbn" : "978-3838383838",
+      "titulo" : "Programación de Robots Autónomos",
+      "numero_de_paginas" : 330,
+      "autores" : [ "Ángel López", "Javier Martín" ],
+      "fechaEdicion" : "12-12-2012",
+      "editorial" : "Rama",
+      "precio" : 30.99,
+      "copias" : [ {
+        "numero" : 1,
+        "estado" : "Disponible"
+      }, {
+        "numero" : 2,
+        "estado" : "Prestado"
+      }, {
+        "numero" : 3,
+        "estado" : "Disponible"
+      } ],
+      "id" : "A1007"
+    } ]
+  } ]
+}

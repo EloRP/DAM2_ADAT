@@ -11,8 +11,9 @@ import javax.xml.bind.annotation.XmlTransient;
 import javax.xml.bind.annotation.XmlType;
 
 @XmlRootElement(name = "Hotel")
-@XmlType(propOrder = { "Nombre", "Telefonos", "Direccion" })
+@XmlType(propOrder = { "nombre", "telefonos", "direccion" })
 public class Hotel implements Serializable {
+    static final long serialVersionUID = 42L;
     int codigoHotel;
     String nombre;
     String fechaInauguracion;

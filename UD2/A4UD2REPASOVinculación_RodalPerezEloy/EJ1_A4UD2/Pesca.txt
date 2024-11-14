@@ -1,0 +1,82 @@
+La especie: Robaliza (Dicentrarchus labrax), tiene un valor alto.
+Captura Mínima: 36cm
+Otros nombres:
+    -Lubina.
+Notas:
+    - Puede llegar a penetrar en aguas dulces
+
+La especie: Sargo (Diplodus sargus sargus), tiene un valor alto.
+Captura Mínima: 15cm
+Otros nombres:
+    -Ninguno.
+Notas:
+    - Os exemplares novos viven en bancos, volvéndose solitarios ó facerse maiores
+
+La especie: Congrio (Conger conger), tiene un valor baixo.
+Captura Mínima: 58cm
+Otros nombres:
+    -Ninguno.
+Notas:
+    - A parte final do seu corpo non se come, pois ten moitas espiñas.
+    - Sempre sae comer pola noite, e polo día agóchase en gretas e buracos.
+
+La especie: Pinto (Labrus bergylta), tiene un valor medio.
+Captura Mínima: 35cm
+Otros nombres:
+    -Ninguno.
+Notas:
+    - Son hermafroditas proterogínicos. Comezan o seu crecemento como femias para transformarse posteriormente en machos
+    - Presenta unha ámplia gama cromática, en xeral adaptada o seu entorno
+
+La especie: Polbo (Octopoda), tiene un valor alto.
+Captura Mínima: 1kg
+Otros nombres:
+    -Pulpo.
+Notas:
+    - As especies mais grandes poden chegar a 6 metros e 70 kgs.
+    - O terceiro brazo dereito do macho é realmente un órgano copulador
+    - Son moluscos
+    - Considéranse os invertebrados de maior intelixencia
+
+La especie: Choco (Sepiida), tiene un valor medio.
+Captura Mínima: 20cm
+Otros nombres:
+    -Sepia.
+Notas:
+    - Cando se ven ameazados soltan un chorro de tinta
+
+La especie: Troita (Salmoninae)
+Captura Mínima: 21cm
+Otros nombres:
+    -Trucha.
+Notas:
+- Ninguna
+
+Xornada día: 2020-05-21 (Lugar - Cabicastro)
+Descrición: Ningunha.
+Capturas:
+    - Ningunha.
+
+Xornada día: 20020-05-27 (Lugar - Lagos)
+Descrición: A auga estaba fría e turbia. A visibilidade era de 2 metros.
+Capturas:
+    - Captura de: Pinto, Unidades: 3, Peso: 5.0
+    - Captura de: Pulpo, Unidades: 1, Peso: 1.7
+
+Xornada día: 2020-07-07 (Lugar - Illa do santo)
+Descrición: Un día moi agradable para a pesca con boa visibilidade. A auga estaba especialmente quente.
+Capturas:
+    - Captura de: Congrio, Unidades: 1, Peso: 7.5
+    - Captura de: Sargo, Unidades: 5, Peso: 2.3
+    - Captura de: Robaliza, Unidades: 1, Peso: 1.2
+
+Xornada día: 2020-08-30 (Lugar - Con negro)
+Descrición: Ningunha.
+Capturas:
+    - Captura de: Pulpo, Unidades: 2, Peso: 4.8
+
+Xornada día: 2020-09-03 (Lugar - Area de Bon)
+Descrición: Aínda que o mar esta en calma, non se vía nada.
+Capturas:
+    - Ningunha.
+

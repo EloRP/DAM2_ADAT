@@ -105,8 +105,8 @@ public class A4UD1_Alumnos {
         try (ObjectOutputStream oosAlumnos = new ObjectOutputStream(new FileOutputStream("alumnos.dat", true));
                 ObjectOutputStream oosNotas = new ObjectOutputStream(new FileOutputStream("NotasAlumno.dat", true))) {
             oosAlumnos.writeObject(nuevoAlumno);
-            NotaAlumno notaAlumno = new NotaAlumno(nuevoAlumno.getNumero(), notaAlumno);
-            oosNotas.writeObject(notaAlumno);
+           // NotaAlumno notaAlumno = new NotaAlumno(nuevoAlumno.getNumero(), notaAlumno);
+           // oosNotas.writeObject(notaAlumno);
             System.out.println("Alumno y notas añadidos correctamente.");
         } catch (IOException e) {
             System.out.println("Error al añadir alumno o notas: " + e.getMessage());
